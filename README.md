@@ -1,2 +1,1 @@
-# Juan-s-homework
-plant car
+# coding-project-template
